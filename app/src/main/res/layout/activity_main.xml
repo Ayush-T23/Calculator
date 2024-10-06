@@ -92,7 +92,7 @@
                 android:layout_height="79dp"
                 android:layout_margin="12dp"
                 android:backgroundTint="#FF9800"
-                android:text="÷"
+                android:text="/"
                 android:textColor="@color/white"
                 android:textSize="32dp"
                 app:cornerRadius="36dp" />
@@ -145,7 +145,7 @@
                 android:layout_height="79dp"
                 android:layout_margin="12dp"
                 android:backgroundTint="#FF9800"
-                android:text="x"
+                android:text="*"
                 android:textColor="@color/white"
                 android:textSize="32sp"
                 app:cornerRadius="36dp" />
